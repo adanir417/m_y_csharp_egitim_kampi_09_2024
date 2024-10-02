@@ -10,6 +10,7 @@ namespace _01_MainSubjects
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Merhaba Dünya!");
         }
     }
 }
