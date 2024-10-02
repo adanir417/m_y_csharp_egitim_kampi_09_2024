@@ -1,0 +1,1 @@
+# m_y_csharp_egitim_kampi_09_2024
