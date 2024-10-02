@@ -2,8 +2,8 @@
 
 ## Dersler
 ---
-Ders 01 - [01_MainSubjects](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/01_MainSubjects) 
-Ders 02 - [02_Variables](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/02_Variables)
+Ders 01 - [01_MainSubjects](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/01_MainSubjects)__ 
+Ders 02 - [02_Variables](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/02_Variables)__
 
 
 
