@@ -185,116 +185,116 @@ namespace _05_LoopsWithStars
 
             #region Elmas içinde isim denemem
 
-            char yildiz = '*';
-            char bosluk = ' ';
+            //char yildiz = '*';
+            //char bosluk = ' ';
 
-            Console.Write("Kalp içine yazdırmak istediğiniz ismi giriniz: ");
-            string name = Console.ReadLine();
+            //Console.Write("Kalp içine yazdırmak istediğiniz ismi giriniz: ");
+            //string name = Console.ReadLine();
 
-            Console.WriteLine("Genişlik için tek sayı giriniz(15,35,61 vb.): ");
-            int jewelryWidth;
-            bool readed = int.TryParse(Console.ReadLine(),out jewelryWidth);
+            //Console.WriteLine("Genişlik için tek sayı giriniz(15,35,61 vb.): ");
+            //int jewelryWidth;
+            //bool readed = int.TryParse(Console.ReadLine(),out jewelryWidth);
 
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine();
+            //Console.WriteLine();
+            //Console.WriteLine();
+            //Console.WriteLine();
 
-            int space = jewelryWidth / 2;
-            int startSpace = space;
-            int endSpace = space;
+            //int space = jewelryWidth / 2;
+            //int startSpace = space;
+            //int endSpace = space;
 
-            for (int i = 1; i <= jewelryWidth/2+1; i++)
-            {
-                //Boşluklar
-                for (int j = startSpace; j >= 0; j--)
-                { 
-                    Console.Write(bosluk);
-                }
+            //for (int i = 1; i <= jewelryWidth/2+1; i++)
+            //{
+            //    //Boşluklar
+            //    for (int j = startSpace; j >= 0; j--)
+            //    { 
+            //        Console.Write(bosluk);
+            //    }
                 
-                for (int l = 1; l <= 2 * i - 1; l++)
-                {
-                    Console.Write(yildiz);
-                }
+            //    for (int l = 1; l <= 2 * i - 1; l++)
+            //    {
+            //        Console.Write(yildiz);
+            //    }
 
-                for (int k = endSpace; k >= 0; k--)
-                {
-                    Console.Write(bosluk);
-                }
+            //    for (int k = endSpace; k >= 0; k--)
+            //    {
+            //        Console.Write(bosluk);
+            //    }
 
 
-                Console.WriteLine();
-                space--;
-                startSpace = space;
-                endSpace = space;
-            }
+            //    Console.WriteLine();
+            //    space--;
+            //    startSpace = space;
+            //    endSpace = space;
+            //}
 
-            int lastStarCount = 0;
-            if (name.Length + 4 < jewelryWidth)
-            {
-                int count = 0;
-                for (int i = 0; i < 1; i++)
-                {
-                    for (int j = 1; j <= ((jewelryWidth/2)-(name.Length)/2+1); j++)
-                    {
-                        Console.Write(yildiz);
-                        count++;
+            //int lastStarCount = 0;
+            //if (name.Length + 4 < jewelryWidth)
+            //{
+            //    int count = 0;
+            //    for (int i = 0; i < 1; i++)
+            //    {
+            //        for (int j = 1; j <= ((jewelryWidth/2)-(name.Length)/2+1); j++)
+            //        {
+            //            Console.Write(yildiz);
+            //            count++;
                         
-                    }
+            //        }
 
-                    Console.Write(name);
-                    count += name.Length;
-                    lastStarCount = count;
+            //        Console.Write(name);
+            //        count += name.Length;
+            //        lastStarCount = count;
 
 
-                    for (int k = 1; k < jewelryWidth - count+3; k++)
-                    {
-                        Console.Write(yildiz);
-                        lastStarCount++;
-                    }
-                }
+            //        for (int k = 1; k < jewelryWidth - count+3; k++)
+            //        {
+            //            Console.Write(yildiz);
+            //            lastStarCount++;
+            //        }
+            //    }
             
-            }
+            //}
 
-            Console.WriteLine();
-            lastStarCount-=2;
+            //Console.WriteLine();
+            //lastStarCount-=2;
 
-            space = 1;
-            startSpace = space;
-            endSpace = space;
+            //space = 1;
+            //startSpace = space;
+            //endSpace = space;
 
-            for (int i = jewelryWidth / 2; i >= 0; i--)
-            {
-                for (int j = 1; j <= startSpace; j++)
-                {
-                    Console.Write(bosluk);
-                }
+            //for (int i = jewelryWidth / 2; i >= 0; i--)
+            //{
+            //    for (int j = 1; j <= startSpace; j++)
+            //    {
+            //        Console.Write(bosluk);
+            //    }
                 
-                for (int k = lastStarCount; k > 0; k--)
-                {
-                    Console.Write(yildiz);
+            //    for (int k = lastStarCount; k > 0; k--)
+            //    {
+            //        Console.Write(yildiz);
                    
-                }
+            //    }
                 
 
-                for (int l = 1; l <= endSpace; l++)
-                {
-                    Console.Write(bosluk);
-                }
+            //    for (int l = 1; l <= endSpace; l++)
+            //    {
+            //        Console.Write(bosluk);
+            //    }
 
-                Console.WriteLine();
-                space++;
-                startSpace = space;
-                endSpace = space;
-                lastStarCount-=2;
+            //    Console.WriteLine();
+            //    space++;
+            //    startSpace = space;
+            //    endSpace = space;
+            //    lastStarCount-=2;
 
-            }
+            //}
 
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine(); 
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine();
+            //Console.WriteLine();
+            //Console.WriteLine();
+            //Console.WriteLine(); 
+            //Console.WriteLine();
+            //Console.WriteLine();
+            //Console.WriteLine();
 
 
             #endregion
