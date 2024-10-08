@@ -2,6 +2,7 @@
 ---
 
 Murat YÜCEDAĞ [C# Eğitim Kampı](https://www.youtube.com/playlist?list=PLKnjBHu2xXNPmFMvGKVHA_ijjrgUyNIXr)    
+Check original repository => [C# Eğitim Kampı Original Repository](https://github.com/MuratYucedag/CSharpEgitimKampi)
 
 ---
 
@@ -12,7 +13,7 @@ Ders 01 - [01_MainSubjects](https://github.com/adanir417/m_y_csharp_egitim_kampi
 Ders 02 - [02_Variables](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/02_Variables)  
 Ders 03 - [03_MakingDecision](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/03_MakingDecision)    
 Ders 04 - [04_Loops](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/04_Loops)    
-
+Ders 05 - [05_LoopsWithStars](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/05_LoopsWithStars)
 
 
 ---
