@@ -14,6 +14,7 @@ Ders 02 - [02_Variables](https://github.com/adanir417/m_y_csharp_egitim_kampi_09
 Ders 03 - [03_MakingDecision](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/03_MakingDecision)    
 Ders 04 - [04_Loops](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/04_Loops)    
 Ders 05 - [05_LoopsWithStars](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/05_LoopsWithStars)
+Ders 06 - [06_Arrays](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/06_Arrays)
 
 
 ---
