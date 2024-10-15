@@ -21,8 +21,9 @@ namespace _07_foreachLoop
 
             //string[] cities = { "milano", "roma", "budapeşte", "ankara", "istanbul", "varşova" };
 
-            //foreach(string x in cities) {
-            //    Console.WriteLine(x);               
+            //foreach (string x in cities)
+            //{
+            //    Console.WriteLine(x);
             //}
 
 
