@@ -8,7 +8,7 @@ Check original repository => [C# Eğitim Kampı Original Repository](https://git
 
 
 ## Dersler
-### Module 101-Completed    
+### Module 101 - Completed    
 ---    
 
 ### :green_circle:Ders 01 - [01_MainSubjects](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/01_MainSubjects)   
@@ -29,7 +29,7 @@ Yedinci ders, bu arkadaşın gelişmiş for döngüsü diye adlandırılışına
 
 ---   
 
-### Module 102-    
+### Module 102 - Continue    
 ---   
 ### :green_circle:Ders 08 - [08_Methods](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/08_Methods)     
 Sekizinci ders, her birine farklı görevler verip tekrar tekrar kullanabildiğin tatlı yapılar.    
