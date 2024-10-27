@@ -11,19 +11,19 @@ Check original repository => [C# Eğitim Kampı Original Repository](https://git
 ### Module 101-Completed    
 ---    
 
-# :green_circle:Ders 01 - [01_MainSubjects](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/01_MainSubjects)   
+### :green_circle:Ders 01 - [01_MainSubjects](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/01_MainSubjects)   
 İlk ders terminal ekranı nedir? Buralara nasıl komut ederiz onları anladım.     
-# :green_circle:Ders 02 - [02_Variables](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/02_Variables)  
+### :green_circle:Ders 02 - [02_Variables](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/02_Variables)  
 İkinci ders kullanıcıdan nasıl veri alınacağını, alınan verilerin nasıl kullanılacağını anladım.    
-# :green_circle:Ders 03 - [03_MakingDecision](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/03_MakingDecision)    
+### :green_circle:Ders 03 - [03_MakingDecision](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/03_MakingDecision)    
 Üçüncü ders bir oyun içindeki yol ayrımları nasıl yapılıyormuş anlamış oldum.    
-# :green_circle:Ders 04 - [04_Loops](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/04_Loops)    
+### :green_circle:Ders 04 - [04_Loops](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/04_Loops)    
 Dördüncü ders dejavu, bu ders tekrar etmesi gereken yapılar nasıl kurgulanır onu anladım.    
-# :green_circle:Ders 05 - [05_LoopsWithStars](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/05_LoopsWithStars)     
+### :green_circle:Ders 05 - [05_LoopsWithStars](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/05_LoopsWithStars)     
 Beşinci ders, Bir takım şekillerle ilgilenildi. Eğlenceli fakat boşlukların bile bir karakteri var. :smirk:    
-# :green_circle:Ders 06 - [06_Arrays](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/06_Arrays)     
+### :green_circle:Ders 06 - [06_Arrays](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/06_Arrays)     
 Altıncı ders, Artık hangi diziyi izliyorsun dediklerinde düşüneceğim başka diziler var. :wink:    
-# :green_circle:Ders 07 - [07_foreachLoop](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/07_foreachLoop)    
+### :green_circle:Ders 07 - [07_foreachLoop](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/07_foreachLoop)    
 Yedinci ders, bu arkadaşın gelişmiş for döngüsü diye adlandırılışına şahit olmuştum ve C# içerisinde nasıl kullanılır anladım.    
 
 
@@ -31,11 +31,11 @@ Yedinci ders, bu arkadaşın gelişmiş for döngüsü diye adlandırılışına
 
 ### Module 102-    
 ---   
-# :green_circle:Ders 08 - [08_Methods](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/08_Methods)     
+### :green_circle:Ders 08 - [08_Methods](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/08_Methods)     
 Sekizinci ders, her birine farklı görevler verip tekrar tekrar kullanabildiğin tatlı yapılar.    
-# :green_circle:Ders 09 - [09_DatabaseProject](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/09_DatabaseProject)    
+### :green_circle:Ders 09 - [09_DatabaseProject](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/09_DatabaseProject)    
 Dokuzuncu ders, ders içerisinde MSSQL kullanımı ve bunun C# tarafında .Net Framework ile nasıl işlendiğini anladım.
-# :green_circle:Ders 09 - [10_DatabaseCrud](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/10_DatabaseCrud) 
+### :green_circle:Ders 09 - [10_DatabaseCrud](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/10_DatabaseCrud) 
 Onuncu ders, Sql komutları ile Crud işlemlerin nasıl yapılacağını anladım.     
 ilk başta [şöyle](https://www.youtube.com/watch?v=iaHqyKAQC_I) bir karışıklık olsa da 
 
