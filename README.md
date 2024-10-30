@@ -29,13 +29,13 @@ Yedinci ders, bu arkadaşın gelişmiş for döngüsü diye adlandırılışına
 
 ---   
 
-### Module 102 - Continue    
+### Module 102 - Completed    
 ---   
 ### :green_circle:Ders 08 - [08_Methods](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/08_Methods)     
 Sekizinci ders, her birine farklı görevler verip tekrar tekrar kullanabildiğin tatlı yapılar.    
 ### :green_circle:Ders 09 - [09_DatabaseProject](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/09_DatabaseProject)    
 Dokuzuncu ders, ders içerisinde MSSQL kullanımı ve bunun C# tarafında .Net Framework ile nasıl işlendiğini anladım.
-### :green_circle:Ders 09 - [10_DatabaseCrud](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/10_DatabaseCrud) 
+### :green_circle:Ders 10 - [10_DatabaseCrud](https://github.com/adanir417/m_y_csharp_egitim_kampi_09_2024/tree/master/10_DatabaseCrud) 
 Onuncu ders, Sql komutları ile Crud işlemlerin nasıl yapılacağını anladım.     
 ilk başta [şöyle](https://www.youtube.com/watch?v=iaHqyKAQC_I) bir karışıklık olsa da 
 
